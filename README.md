@@ -5,6 +5,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 First, run the development server:
 Developer name:navneet
 
+i am thinking to develop a new software
+
 ```bash
 npm run dev
 # or
